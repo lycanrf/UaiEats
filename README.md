@@ -2,7 +2,7 @@
 
 Projeto de portfólio completo que simula uma plataforma de entrega de comida com arquitetura desacoplada. O sistema demonstra alta proficiência em gerenciamento de estado complexo, segurança de API (JWT) e proteção de rotas front-end/back-end.
 
-**🌟 Visão Geral do Projeto**
+**# 🌟 Visão Geral do Projeto**
 
 O UaiEats é um sistema ponta a ponta que permite aos usuários visualizar cardápios, montar um carrinho de compras, finalizar pedidos e gerenciar suas contas. O projeto é divido em dois serviços independentes: 
 -Frontend (Cliente e Admin): Aplicação React/Vite.
@@ -10,7 +10,7 @@ O UaiEats é um sistema ponta a ponta que permite aos usuários visualizar card�
 
 
 
-**🚀 Tecnologias e Arquitetura**
+**# 🚀 Tecnologias e Arquitetura**
 
 **Frontend**
 -Tecnologia: React (Vite)
@@ -26,7 +26,7 @@ O UaiEats é um sistema ponta a ponta que permite aos usuários visualizar card�
 
 
 
-**✨ Destaques Funcionais**
+**# ✨ Destaques Funcionais**
 
 -Persistência de Login (F5 Resolvida): Implementação de lógica no AuthContext para garantir que o estado de autenticação (papel do usuário e tokens) persista após o recarregamento da página.
 -Gerenciamento de Carrinho: Lógica otimizada para adição, remoção e atualização de quantidade de itens no carrinho.
@@ -35,7 +35,7 @@ O UaiEats é um sistema ponta a ponta que permite aos usuários visualizar card�
 
 
 
-**⚙️ Guia de Início Rápido**
+**# ⚙️ Guia de Início Rápido**
 
 **Siga estes passos para executar a aplicação completa localmente.**
 
