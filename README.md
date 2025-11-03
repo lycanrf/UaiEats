@@ -1,4 +1,4 @@
-**🍕 UaiEats | Plataforma Full-Stack de Delivery de Comida**
+**# 🍕 UaiEats | Plataforma Full-Stack de Delivery de Comida**
 
 Projeto de portfólio completo que simula uma plataforma de entrega de comida com arquitetura desacoplada. O sistema demonstra alta proficiência em gerenciamento de estado complexo, segurança de API (JWT) e proteção de rotas front-end/back-end.
 
@@ -47,8 +47,8 @@ O UaiEats é um sistema ponta a ponta que permite aos usuários visualizar card�
 **1-Configurar Backend (API):**
 
 cd uaieats_project/backend
-pip install -r requirements.txt  # Instale dependências Python
-# Crie o arquivo .env com SECRET_KEY, EMAIL_HOST_USER, etc.
+pip install -r requirements.txt
+**Crie o arquivo .env com SECRET_KEY, EMAIL_HOST_USER, etc.**
 python manage.py makemigrations && python manage.py migrate
 
 
@@ -63,7 +63,7 @@ cd ../frontend
 npm install
 
 
-**Iniciar Aplicação React:**
+**4-Iniciar Aplicação React:**
 
 npm run dev
 
