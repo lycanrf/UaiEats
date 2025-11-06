@@ -94,15 +94,15 @@ O **frontend** estará disponível em **http://localhost:5173.**
 
 **Visual:**
 
-Página principal:
+**Página principal:**
 
 <img width="960" height="435" alt="{51E73C61-88E0-476E-AD6E-98955F60DCFB}" src="https://github.com/user-attachments/assets/55447bb8-0dbb-4526-936d-f17de9e4f6a6" />
 
-Página do restaurante:
+**Página do restaurante:**
 
 <img width="938" height="434" alt="{1F32C51D-0DC0-4BC2-90AD-10924ABB3D08}" src="https://github.com/user-attachments/assets/a15c1595-2fff-4b25-95dc-37af38712e9f" />
 
-Página de login:
+**Página de login:**
 
 <img width="958" height="437" alt="{2E64E6F8-E6BB-4E8B-9842-99557C2B757E}" src="https://github.com/user-attachments/assets/6348c72d-3cee-4ce5-a5e0-e809c9d43428" />
 
